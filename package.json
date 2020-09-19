@@ -1,0 +1,11 @@
+{
+  "name": "discord.js",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm install discord.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "npm install discord.js"
+}
