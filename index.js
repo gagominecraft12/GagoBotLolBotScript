@@ -8,6 +8,15 @@ client.on('ready', () => {
 mnclient.on('message', msg => {
     if (msg.content === 'help') {
       msg.reply('Want To Help?, DM Me For Help');
+      
+      
+mnclient.on('message', msg => {
+    if (msg.content === 'warn') {
+      msg.reply('**{USER}** Has Been Warned');
+       
+      mnclient.on('message', msg => {
+    if (msg.content === 'mute') {
+      msg.reply('{USER} Has Been Muted');
   }
 });
 
