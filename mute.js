@@ -1,6 +1,6 @@
 warnscript_stand.discord.js [as array with muting pepole as with discord js] report with msgbox
 client.on('ready', () => {
-    console.log(`Logged in as ${X02UsGPctm9DdJmaIndr9wpcMKt7wfep}!`);
+    console.log(`Logged in as ${NzQyNDU4MjE1MjA3NDAzNjYx.XzGaGA.KM64K1sJwyVZmXXHG93_z_hcZDU}!`);
   });
   
   mnclient.on('message', msg => {
